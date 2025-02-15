@@ -30,7 +30,7 @@ Operações de junção de DataFrames, como merge() (equivalente a JOINs em SQL)
 Transformação, filtragem e agregação de dados.
 
 3. Jupyter Notebook
-Uso: Ambiente interativo para escrever e executar código Python, visualizar resultados e documentar o processo.
+Uso: Ambiente interativo para escrever e executar código Python, visualizar resultados e documentar o processo..
 
 
 
