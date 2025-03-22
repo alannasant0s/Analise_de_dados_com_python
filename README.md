@@ -1,12 +1,12 @@
 Este repositório tem como objetivo demonstrar minhas habilidades técnicas de integração do BigQuery com arquivos em Python.
 
-🔨 Ferramentas utilizadas:
+ Ferramentas utilizadas:
 API do BigQuery;
 Google Colab;
 Python;
 SQL.
 
-📚 Conteúdo dos arquivos do repositório:
+ Conteúdo dos arquivos do repositório:
 
 1) O arquivo Integração_sql_python.ipynb apresenta o uso das seguintes ferramentas:
 
